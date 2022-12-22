@@ -1,0 +1,15 @@
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.csproj.AssemblyReference.cache
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.AssemblyInfoInputs.cache
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.AssemblyInfo.cs
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.csproj.CoreCompileInputs.cache
+C:\Users\mehre\source\repos\bos2\bos2\bin\Debug\net6.0\bos2.exe
+C:\Users\mehre\source\repos\bos2\bos2\bin\Debug\net6.0\bos2.deps.json
+C:\Users\mehre\source\repos\bos2\bos2\bin\Debug\net6.0\bos2.runtimeconfig.json
+C:\Users\mehre\source\repos\bos2\bos2\bin\Debug\net6.0\bos2.dll
+C:\Users\mehre\source\repos\bos2\bos2\bin\Debug\net6.0\bos2.pdb
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.dll
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\refint\bos2.dll
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.pdb
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\bos2.genruntimeconfig.cache
+C:\Users\mehre\source\repos\bos2\bos2\obj\Debug\net6.0\ref\bos2.dll
