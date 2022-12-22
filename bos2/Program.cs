@@ -12,12 +12,10 @@ namespace bos2
             Console.WriteLine("B-ni daxil et:");
             double b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("C-ni daxil et:");
-            double c = Convert.ToDouble(Console.ReadLine());
 
-            double d = a + b + c;
+            double c = a + b;
 
-            Console.WriteLine($"{a}+{b}+{c}={d}");
+            Console.WriteLine($"{a}+{b}={c}");
         }
     }
 }
