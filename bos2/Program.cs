@@ -15,9 +15,9 @@ namespace bos2
             Console.WriteLine("C-ni daxil et:");
             double c = Convert.ToDouble(Console.ReadLine());
             
-            double d = a + b + c;
+            double d = a * b * c;
 
-            Console.WriteLine($"{a}+{b}+{c}={d}");
+            Console.WriteLine($"{a}*{b}*{c}={d}");
         }
     }
 }
